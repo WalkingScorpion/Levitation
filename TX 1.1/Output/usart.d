@@ -1,0 +1,17 @@
+..\Output\usart.o: USART.c
+..\Output\usart.o: ..\CMSIS\stm32f10x.h
+..\Output\usart.o: ..\CMSIS\core_cm3.h
+..\Output\usart.o: E:\软件\电路软件\mdk414\ARM\RV31\INC\stdint.h
+..\Output\usart.o: ..\CMSIS\system_stm32f10x.h
+..\Output\usart.o: ..\USER\stm32f10x_conf.h
+..\Output\usart.o: ..\FWlib\inc\stm32f10x_exti.h
+..\Output\usart.o: ..\CMSIS\stm32f10x.h
+..\Output\usart.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\usart.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\usart.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\usart.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\usart.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\usart.o: ..\FWlib\inc\misc.h
+..\Output\usart.o: USART.h
+..\Output\usart.o: E:\软件\电路软件\mdk414\ARM\RV31\INC\stdio.h
+..\Output\usart.o: SPI.h

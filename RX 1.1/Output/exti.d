@@ -1,0 +1,13 @@
+..\Output\exti.o: exti.c
+..\Output\exti.o: ..\CMSIS\stm32f10x.h
+..\Output\exti.o: ..\CMSIS\core_cm3.h
+..\Output\exti.o: E:\软件\电路软件\mdk414\ARM\RV31\INC\stdint.h
+..\Output\exti.o: ..\CMSIS\system_stm32f10x.h
+..\Output\exti.o: ..\USER\stm32f10x_conf.h
+..\Output\exti.o: ..\FWlib\inc\stm32f10x_exti.h
+..\Output\exti.o: ..\CMSIS\stm32f10x.h
+..\Output\exti.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\exti.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\exti.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\exti.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\exti.o: ..\FWlib\inc\misc.h
